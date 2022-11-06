@@ -1,8 +1,9 @@
 # Task 2 Unsupervised classification of images
 
-# Fashion Color Classification
 
-Dataset - 
+
+Dataset - https://drive.google.com/file/d/1wSW18_sQzlQ7xN3Y41UhfOlmCL8dhu-J/view?usp=sharing
+
 
 Here is a dataset for unsupervised image classification. 57898 images are classified into 5 persons (clusters), I have ignored images of people wearing masks and also images with no people in them.
 
