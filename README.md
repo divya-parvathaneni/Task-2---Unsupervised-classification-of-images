@@ -25,4 +25,6 @@ Here is a dataset for unsupervised image classification. 57898 images are classi
  </p>
 <p>This is a clustering task, I have used InceptionV3 model and transfer learning to extract features on the data set and applied k-means clustering on these images. I have chosen k=5 as a starting point</p>
 
+After applying K-means clustering I have moved the images in different clusters into different folders, we can observe that the images in different folders are of the same person.
+
 
