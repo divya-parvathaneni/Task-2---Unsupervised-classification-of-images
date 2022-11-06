@@ -18,7 +18,7 @@ Here is a dataset for unsupervised image classification. 57898 images are classi
 
 
 </br>
-<p>Here are some of the images of people wearing masks</p>
+<p>Here are some of the images of people wearing masks, these images were ignored</p>
 </br>
 <p align='center'>
   <img src="./images/Screenshot 2022-11-06 114751.jpg">
